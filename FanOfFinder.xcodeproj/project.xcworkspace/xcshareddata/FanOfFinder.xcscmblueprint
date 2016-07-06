@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "5093616C38BD26D4E6C4531634AFE9899A4625A6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "A9B5F450D16CE4A03DC5F1217D1B39E297F9D01C" : 0,
+    "5093616C38BD26D4E6C4531634AFE9899A4625A6" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "709505E3-F8B1-4AA4-BF8C-837D9D9F13B7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A9B5F450D16CE4A03DC5F1217D1B39E297F9D01C" : "",
+    "5093616C38BD26D4E6C4531634AFE9899A4625A6" : "FanOfFinder\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "FanOfFinder",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "FanOfFinder.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/AbbyEF109\/FanOfFinder.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5093616C38BD26D4E6C4531634AFE9899A4625A6"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/AbbyEF109\/FanOfFinder.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A9B5F450D16CE4A03DC5F1217D1B39E297F9D01C"
+    }
+  ]
+}
